@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+    <!-- lunaching utils -->
+    <node name="brainbox_interface_node" pkg="utils_package" type="brainbox_interface.py" output="screen" respawn="false" />
+
+</launch>

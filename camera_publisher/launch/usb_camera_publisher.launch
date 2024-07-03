@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+
+    <!-- lunaching camera param -->
+    <rosparam file="$(find camera_publisher)/config/camera_config.yaml" />
+
+    <!-- launching cameras -->
+    <node name="camera_publisher" pkg="redness_exp" type="usb_camera_publisher_compressed.py" output="screen" respawn="false" />
+
+</launch>

@@ -1,0 +1,122 @@
+sensor_manager:
+  camera_1:
+    index: 6
+    bboxone:
+      bb_tl_x: 155
+      bb_tl_y: 90
+      bb_sz_x: 37
+      bb_sz_y: 41
+      threshold: 0.060
+      greater_sign: ">"
+      camera_index: 10
+      mode_log: "log"
+      mode_operation: "stop"
+      mode_resume: "resume"
+    bboxtwo:
+      bb_tl_x: 126
+      bb_tl_y: 137
+      bb_sz_x: 89
+      bb_sz_y: 76
+      threshold: 0.015
+      greater_sign: ">"
+      camera_index: 6
+      mode_log: "log"
+      mode_operation: "stop"
+      mode_resume: "resume"
+    bboxthree:
+      bb_tl_x: 123
+      bb_tl_y: 85
+      bb_sz_x: 127
+      bb_sz_y: 55
+      threshold: 0.1
+      greater_sign: ">"
+      camera_index: 6
+      mode_log: "log"
+      mode_operation: "stop"
+      mode_resume: "resume"
+      
+  camera_2:
+    index: 6
+    bboxone:
+        bb_tl_x: 172
+        bb_tl_y: 148
+        bb_sz_x: 14
+        bb_sz_y: 114
+        threshold: 0.06
+        greater_sign: ">"
+        camera_index: 6
+        mode_log: "log"
+        mode_operation: "stop"
+        mode_resume: "resume"
+    bboxtwo:
+      bb_tl_x: 104
+      bb_tl_y: 65
+      bb_sz_x: 105
+      bb_sz_y: 60
+      threshold: 0.6
+      greater_sign: ">"
+      camera_index: 6
+      mode_log: "log"
+      mode_operation: "stop"
+      mode_resume: "resume"
+
+  camera_3:
+    index: 6
+    bboxone:
+      bb_tl_x: 156
+      bb_tl_y: 0
+      bb_sz_x: 69
+      bb_sz_y: 58
+      threshold: 0.0285
+      greater_sign: ">"
+      camera_index: 10
+      mode_log: "log"
+      mode_operation: "stop"
+      mode_resume: "resume"
+    bboxtwo:
+      bb_tl_x: 108
+      bb_tl_y: 95
+      bb_sz_x: 148
+      bb_sz_y: 145
+      threshold: 0.0007
+      greater_sign: ">"
+      camera_index: 6
+      mode_log: "log"
+      mode_operation: "stop"
+      mode_resume: "resume"
+    bboxthree:
+      bb_tl_x: 114
+      bb_tl_y: 120
+      bb_sz_x: 127
+      bb_sz_y: 55
+      threshold: 0.092
+      greater_sign: ">"
+      camera_index: 6
+      mode_log: "log"
+      mode_operation: "stop"
+      mode_resume: "resume"
+
+  camera_4:
+    index: 4
+    bboxone:
+        bb_tl_x: 315
+        bb_tl_y: 232
+        bb_sz_x: 15
+        bb_sz_y: 80
+        threshold: 0.2
+        greater_sign: ">"
+        camera_index: 4
+        mode_log: "log"
+        mode_operation: "stop"
+        mode_resume: "resume"
+    bboxtwo:
+      bb_tl_x: 206
+      bb_tl_y: 252
+      bb_sz_x: 232
+      bb_sz_y: 80
+      threshold: 0.030
+      greater_sign: ">"
+      camera_index: 4
+      mode_log: "log"
+      mode_operation: "stop"
+      mode_resume: "resume"
