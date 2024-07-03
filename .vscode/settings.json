@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/bahador/dev_ws/install/xarm6_control_trainig/local/lib/python3.10/dist-packages",
+        "/home/bahador/dev_ws/install/image_processing/local/lib/python3.10/dist-packages",
+        "/home/bahador/dev_ws/install/xarm_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/bahador/dev_ws/install/xarm6_control_trainig/local/lib/python3.10/dist-packages",
+        "/home/bahador/dev_ws/install/image_processing/local/lib/python3.10/dist-packages",
+        "/home/bahador/dev_ws/install/xarm_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

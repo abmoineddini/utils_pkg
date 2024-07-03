@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/bahador/dev_ws/install/xarm_planner/include/**",
+        "/home/bahador/dev_ws/install/xarm_gazebo/include/**",
+        "/home/bahador/dev_ws/install/xarm_controller/include/**",
+        "/home/bahador/dev_ws/install/xarm_api/include/**",
+        "/home/bahador/dev_ws/install/xarm_msgs/include/**",
+        "/home/bahador/dev_ws/install/realsense_gazebo_plugin/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/bahador/dev_ws/src/xarm_ros2/thirdparty/realsense_gazebo_plugin/include/**",
+        "/home/bahador/dev_ws/src/xarm_ros2/xarm_api/include/**",
+        "/home/bahador/dev_ws/src/xarm_ros2/xarm_controller/include/**",
+        "/home/bahador/dev_ws/src/xarm_ros2/xarm_gazebo/include/**",
+        "/home/bahador/dev_ws/src/xarm_ros2/xarm_moveit_servo/include/**",
+        "/home/bahador/dev_ws/src/xarm_ros2/xarm_planner/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
